@@ -1,0 +1,39 @@
+.background-color{
+    background-color: blue;
+    color: white;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+h2{
+    color: blue;
+}
+h4{
+    text-align: center;
+    background-color :blue;
+    color:white;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+/* #heading{
+    padding-bottom: 1px;
+} */
+h5{
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+ #line{
+    border: 1px solid black;
+
+ }
+ .watermark{
+    color:black;
+    position: relative;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+ 
